@@ -211,7 +211,7 @@ This project is open source and available under the MIT License.
 For questions, suggestions, or collaboration opportunities:
 - **Email**: abusanny@github.com
 - **GitHub**: https://github.com/abusanny
-- **Institution**: Utsaah Lab, IIT Jodhpur
+- **Institution**: Utsaah Lab, IISc Bangalore
 
 ---
 
